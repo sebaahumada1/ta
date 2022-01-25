@@ -1,0 +1,388 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+:root{
+	scroll-behavior: smooth;
+}
+#ahora{
+	font-size: 20px;
+	font-weight: 900;
+	font-family: cursive;
+
+}
+.titulo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-family: fantasy;
+	color:blue;
+	margin-top: 90px;
+	
+}
+#empresa{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.doc{
+	margin-top: 80px;
+
+}
+.bien{
+	
+	padding-top: 20px;
+}
+.biene{
+	margin-top: 2%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+	color: blue;
+
+	text-shadow: 4px 2px lightblue;
+	
+
+
+}
+#pregunta{
+	font-family: sans-serif;
+	
+	width: 60%;
+	height: 300px;
+	
+	margin-top:5%;
+	margin-right: ;
+	display: flex;
+	margin-left:350px;
+	justify-content: center;
+	text-align: center;
+	color: #FF7800;
+	flex-direction: column;
+	box-shadow: 2px 1px 2px 2px #85fbe6;
+	background-color:#ebf9fc ;
+}
+
+.uno{
+	font-family: cursive;
+	font size: 3em;
+	font-weight: 900;
+	color: black;
+}
+.dos{
+	font-family: Calibri;
+	font-style: oblique;
+	font-size: 40px;
+	color: blue;
+
+
+}
+.ima{
+	width: 200px;
+	height:200px;
+}
+
+.contenedor1{
+	margin-top:40px;
+	margin-left: 30px;
+}
+
+
+
+
+.contenedor0{
+	display: flex;
+	justify-content:space-between;
+}
+header{
+	width: 100%;
+	height: 600px;
+	background-image:linear-gradient(rgba(215,0,0,0.7),rgba(215,0,0,0.5), green),url("https://fotos.alquilerargentina.com/v7/propiedades/xq36/o_xq36_Complejo_CP3H5DBD.jpg?p=general");
+	backface-visibility: hidden;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: ;
+	
+
+	
+
+	
+}
+
+
+}
+.curva{
+	display: block;
+}
+
+.titulo{
+	z-index: ;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding-top: ;
+	width: 100%;
+	height: 90px;
+	background-color:#F1D9D7;
+}
+.spam{
+	padding-top:200px;
+}
+.trabaja{
+	text-decoration: underline 2px #1ABAC1 ;
+	text-decoration-style:double;
+	margin-left: 230px;
+	margin-top: 80px;
+}
+.tra{
+	 color:white;
+	 width: 70%;
+	 height: 160px;
+	 margin-left: 100px;
+	 margin-bottom:50px;
+	 margin-top: 50px;
+	 font-weight: 800;
+	 background-color:blue;
+	 text-shadow: 4px 2px lightblue;
+	 
+	 display: flex;
+	 text-align: center;
+	 justify-content: center;
+	 padding-top: 2.5%;
+	 border-radius: 80%
+
+}
+
+body{
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0,0,0,0);
+	overflow: scroll;
+
+}
+
+.imagen{
+	width: 600px;
+	height: 290px;
+	padding: 0px;
+	margin-left: 1%;
+	margin-top: 1%;
+	border: solid 2px crimson;
+
+}
+.galeria{
+	display: flex;
+	flex-wrap: wrap;
+
+
+
+}
+.titulog{
+
+}
+.somos{
+	display: flex;
+	justify-content: center;
+	color:blue;
+	margin-top: 50px;
+	text-shadow: 4px 2px lightblue;
+	
+
+}
+.quienes{
+	margin-top: 50px;
+	width: 90%;
+	height: 220px;
+	box-shadow: 2px 2px 2px 3px crimson;
+	background-color:#E9EEEA;
+	font-size: 18px;
+	font-family: cursive;
+	text-shadow: 1px 1px crimson;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 5%;
+	margin-bottom: 4%;
+	font-weight:900;
+}
+#rueda{
+	margin-left: : 3%
+}
+
+.servicios{
+
+	display: flex;
+	justify-content: center;
+	color: blue;
+	margin-top: 50px;
+	text-shadow: 4px 2px lightblue;
+}
+
+
+.instalaciones{
+
+	margin-top: 50px;
+	font-size: 18px;
+	font-family: cursive;
+	text-shadow: 1px 1px #F75D4D;
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-left: 5%;
+	margin-bottom: 2%;
+	font-weight:900;
+	margin-left: 10%;
+}
+
+.li{
+	margin-top: 20px;
+	font-size: 17px;
+	
+	text-shadow: 1px 1px blue;
+	padding: 5px;
+	font-weight:900;
+	margin-left: 10%;
+	font-family: sans-serif;
+
+}
+.segundali{
+		display: flex;
+		flex-direction: column;
+		text-align: left;	
+		top: 0;
+		left: 30%;
+		color: red;
+		padding-left: 150px
+}
+
+
+.primerli{
+		display: inline-block;
+		flex-direction: column;
+		text-align: left;
+		color: red;
+
+
+}
+.listas{
+	display: flex;
+	padding-left: 10%;
+
+}
+.titulog{
+	display: flex;
+	justify-content: center;
+	color: blue;
+	margin-top: 50px;
+	text-shadow: 4px 2px lightblue;
+}
+footer{
+	margin-top: 100px;
+	width: 100%;
+	height: 400px;
+	background: url("https://st3.depositphotos.com/1184748/13637/v/600/depositphotos_136379276-stockvideo-abstract-kerst-rode-achtergrond-met.jpg");
+	background-size: cover;
+	opacity: 0.9;
+	animation: rotarColor infinite 2s;
+	
+		
+	
+
+}
+
+
+.conta{
+	font-family: sans-serif;
+	font-weight: 900;
+	font-size: 49px;
+	color: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding-top: 15px;
+
+}
+
+
+.what{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	animation: rotarColor infinite 2s;
+
+
+}
+
+.imagfo{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 8%;
+	animation: rotarColor infinite 2s;
+}
+
+@keyframes rotarColor{
+	from{
+	filter: hue-rotate(0deg)
+}
+
+	to{
+		filter: hue-rotate(360deg);
+	}
+}
+
+.boton{
+	width: 80px;
+	height: 80px;
+	margin-top: 1%;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+
+
+.quienes{
+		width: 88%;
+		height: 400px;
+	}
+.listas{
+	padding-left:1px;
+}
+
+.segundali{
+	padding-left: 5px;
+}
+	
+footer{
+	height: 350px;
+	border-radius: 20%;
+}		
+		
+.imagfo{
+
+	margin-top: 25%;
+}
+
+.titulog{
+	margin-bottom: 25px;
+}
+
+
+
+}
